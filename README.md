@@ -10,7 +10,7 @@
 
 | AI Chat Interface | Search & AI Mode |
 |:-:|:-:|
-| ![StefanClaw Chat Interface](screenshots/stefanclaw-chat-interface.png) | ![StefanClaw AI Mode](screenshots/stefanclaw-ai-mode.png) |
+| ![StefanClaw Chat Interface](screenshots/chat.png) | ![StefanClaw AI Mode](screenshots/工作台.png) |
 
 ## Overview
 
